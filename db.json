@@ -1,0 +1,28 @@
+{
+  "alunos": [
+    {
+      "nome": "Patrícia Marcela Sara Novaes",
+      "matricula": "003",
+      "curso": "Sistemas para internet",
+      "id": 3
+    }
+  ],
+  "disciplinas": [
+    {
+      "nome": "Teste2",
+      "cargaHoraria": "12h",
+      "professor": "samuel",
+      "status": "Opcional",
+      "observacos": "teste",
+      "id": 2
+    },
+    {
+      "nome": "Teste",
+      "cargaHoraria": "55h",
+      "professor": "João Da Silva",
+      "status": "Obrigatória",
+      "observacos": "descrição da observação",
+      "id": 5
+    }
+  ]
+}
